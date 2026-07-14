@@ -11,7 +11,7 @@ export const metadata = {
 }
 
 const details = [
-  { icon: Mail, label: "Email", value: "greekrootai@gmail.com", href: "mailto:greekrootai@gmail.com" },
+  { icon: Mail, label: "Email", value: "contact@greekroot.org", href: "mailto:contact@greekroot.org" },
   { icon: MapPin, label: "Location", value: "Pakistan, Karachi — Remote worldwide" },
   { icon: Clock, label: "Response time", value: "Within 24 hours" },
 ]
